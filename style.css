@@ -1,0 +1,188 @@
+@font-face {
+    font-family: "Anonymous Pro";
+    src: url(AnonymousPro-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Anonymous Pro";
+    src: url(AnonymousPro-Regular.ttf) ;
+}
+
+svg {
+    width: 200.34px;
+    height:100.24px;
+    Top:30.18px;
+    Left:10.52px;
+    flex-shrink: 0;
+    font-size: 20px;
+    align-items: flex-start;
+
+}
+
+h2 {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 48px;
+    margin-left: 250px;
+    height: 1px;
+}
+
+.container {
+    display: inline-block;
+    margin: 40px;
+    justify-content: space-between;;
+    align-items: flex-start;
+    background-color: white;
+    border-radius: 12px;
+}
+h3 {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 26px;
+}
+
+p {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 25px;
+    margin: 0%;
+    padding: 0%;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width:200px;
+}
+
+img {
+    width: 370px;
+    height: 254px;
+}
+
+header {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 110px;
+}
+h4 {
+    color: aliceblue;
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 30px;
+    background-color: #121723;
+    width: 300px;
+}
+ footer{
+    background-color: #121723;
+    color:#121723;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+    height: 200px;
+
+}
+body {
+    background-color: #F1F1F1;
+}
+.card{
+    width: 30.34px;
+    height: 30.24px;
+    Top: 100.18px;
+    Left:100.52px;
+    flex-shrink: 0px;
+    font-size: 60px;
+    align-items: flex-start;
+    letter-spacing :200px; 
+    padding: 0px;
+    margin: 0px;
+}
+a {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    font: italic bold 16px/1.5;
+    font-family:" Anonymous Pro",sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    align-items: center;
+    width: 200px;
+    text-decoration: none;
+}
+h5{
+    color: var(--text_gray, #A1A6B4);
+    font-family:" Anonymous Pro"; 
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700px;
+    align-items: center;
+    
+}
+h1 {color:black;
+    font-family: "Anonymous Pro";
+    font-size: 30px;
+    width: 300px;
+    height: 10px;
+}
+.core {
+    font-family:"Anonymous Pro";
+    display:flex;
+    gap:24px;
+    width: 400px;
+    height: 50px;
+    color: black;
+}
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content:center;
+}
+.img-container{
+ display: flex;
+ gap: 10px;
+ padding: 32px 24px ;
+ margin: 0;
+ flex-direction: column;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 110px;
+}
+.mor {
+    font-family:"Anonymous Pro";
+    display:flex;
+    gap:24px;
+    width: 400px;
+    height: 100px;
+    color: #F1F1F1;
+    margin-right: 100px;
+}
+.v{
+    background-color:#121723;
+    width: 700.34px;
+    height:100.24px;
+    Top:30.18px;
+    Left:10.52px;
+    flex-shrink: 0;
+    font-size: 2px;
+    align-items: flex-start;
+    color: #121723;
+    margin-left: 120px;
+}
+.h5 {
+    width: 300px;
+    height: 10px;
+    font-size: 2px;
+    margin-right: 260px;
+    margin-left: 350px;
+}
+hr {
+    width: 1330px;
+    color: aliceblue;
+}
+ 
